@@ -1,4 +1,4 @@
-
+automatic Goose VPN Addon | NAT-firewall + server-locations offers the most advanced Goose VPN addon, with NAT-firewall and server-locations. Ideal for users who value privacy and
 
 
 
